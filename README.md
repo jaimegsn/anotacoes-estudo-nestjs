@@ -9,7 +9,7 @@ Anotações sobre o framework NestJS enquanto estudo sobre ele
   - [Entendendo estrutura projeto](./src/0_introdutorio/entendendo-estrutura-projeto.md)
   - [Componentes](./src/0_introdutorio/componentes.md)
   - [Módulos](./src/0_introdutorio/modulos.md)
-- [Camada de Controllers]()
+- [Camada de Controllers](./src/1_controllers/controllers.md)
 
 ## Mdbook
 
