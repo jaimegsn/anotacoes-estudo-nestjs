@@ -73,3 +73,8 @@ export class AppModule {}
 ```
 
 Agora sim podemos acessar
+
+
+### Criando um controller usando a CLI do Nest:
+
+**`nest g controller name`**
