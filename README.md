@@ -9,7 +9,11 @@ Anotações sobre o framework NestJS enquanto estudo sobre ele
   - [Entendendo estrutura projeto](./src/0_introdutorio/entendendo-estrutura-projeto.md)
   - [Componentes](./src/0_introdutorio/componentes.md)
   - [Módulos](./src/0_introdutorio/modulos.md)
-- [Camada de Controllers](./src/1_controllers/controllers.md)
+- [Camada de Controllers](./src/1_controllers/criando_controllers.md)
+  - [Parametros que podemos receber de uma Request - Req Object, @Body, @Query, @Param, @Header, @Ip](./src/1_controllers/request_params.md)
+  - [Mecanismo de reposta, como customiza-la e Status Code HTTP na resposta.](./src/1_controllers/response_statusCode.md)
+  - [Personalizando mais ainda a rota dos controllers com 'Route Wildcard'](./src/1_controllers/route_wildcard.md)
+  - [Redirection/Redirecionar para uma URL](./src/1_controllers/redirecionar.md)
 
 ## Mdbook
 
